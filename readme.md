@@ -2,7 +2,11 @@
 
 ## Aperçu du projet
 
-Ce projet illustre la mise en œuvre de la détection d'objets en temps réel utilisant le modèle YOLOv4. Le code utilise OpenCV, NumPy, et d'autres bibliothèques pertinentes pour accomplir la détection d'objets. Les résultats de détection sont initialement affichés dans la console pour des tests et développements ultérieurs, ils pourront être envoyés à un broker MQTT et stockés dans une base de données.
+Ce projet illustre la mise en œuvre de la détection d'objets en utilisant le modèle YOLOv4. Le code utilise OpenCV, NumPy, et d'autres bibliothèques pertinentes pour accomplir la détection d'objets.
+Pour lINstant, le code recupere une liste d'images depuis le web et les traite pour détecter des objets.
+Les résultats de détection sont initialement affichés dans la console pour des tests et développements ultérieurs, ils pourront être envoyés à un broker MQTT et stockés dans une base de données.
+
+Le code source est disponible dans mon dépôt GitHub [ProjetIOT](https://github.com/youssefchlendi/ProjetIOT)
 
 ## Étapes à suivre
 
